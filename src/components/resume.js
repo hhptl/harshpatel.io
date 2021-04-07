@@ -26,7 +26,7 @@ class Resume extends Component {
             <h5>Location</h5>
             <p>Metuchen, New Jersey</p>
             <h5>Email</h5>
-            <p>harsh.patel@outlook.com</p>
+            <p>harsh.patel36@outlook.com</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>

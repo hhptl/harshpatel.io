@@ -18,7 +18,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>HTML/CSS | Java | JavaScript | React  | NodeJS  </p>
+          <p>Senior at Rutgers University - New Brunswick</p>
 
         <div className="social-links">
 
