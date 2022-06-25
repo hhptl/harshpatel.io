@@ -18,7 +18,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>Senior at Rutgers University - New Brunswick</p>
+          <p>Software Engineer - Walmart Global Tech</p>
 
         <div className="social-links">
 
